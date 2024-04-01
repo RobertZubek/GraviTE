@@ -1,0 +1,1091 @@
+2024-04-01 13:27:10,210 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:27:18,028 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:27:18,097 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:27:18,160 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:27:18,195 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:27:18,233 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:27:18,266 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:27:18,301 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:27:18,344 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:27:18,387 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:27:18,427 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:27:18,468 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:27:18,508 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:27:18,616 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:27:18,698 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:27:18,795 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:27:18,816 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:27:18,905 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:27:28,232 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:27:28,269 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:27:28,325 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:27:29,726 [INFO] BspModel:204 - createCodeInput : Driver_PHY Template : 6 IPName :  IPMode :  Component : LAN8742 Solution : LAN8742 InstanceName : 
+2024-04-01 13:27:29,740 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:27:29,774 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:27:29,837 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:27:33,454 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:27:34,028 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:28:45,072 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,890x218,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-01 13:29:48,122 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:30:05,073 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:31:27,287 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:31:57,802 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:32:59,437 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 906008776 Bytes (1073741824)
+2024-04-01 13:33:01,048 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 937234176 Bytes (1073741824)
+2024-04-01 13:33:05,863 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 880278264 Bytes (1073741824)
+2024-04-01 13:33:06,263 [INFO] ProjectBuilder:2359 - IP not ready for code generation: FREERTOS
+2024-04-01 13:33:08,140 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-04-01 13:33:08,143 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-01 13:33:08,143 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-01 13:33:08,143 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-04-01 13:33:08,143 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-01 13:33:08,143 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LWIP
+2024-04-01 13:33:08,144 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-01 13:33:08,147 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-01 13:33:08,147 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ETH
+2024-04-01 13:33:08,149 [INFO] CodeGenerator:807 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.10.0.202311202037//db/
+2024-04-01 13:33:08,176 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 13:33:08,444 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/license.tmp_save
+2024-04-01 13:33:08,572 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/license.tmp
+2024-04-01 13:33:08,599 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/gpio.tmp_save
+2024-04-01 13:33:08,674 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/gpio.tmp
+2024-04-01 13:33:08,759 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_vars.tmp_save
+2024-04-01 13:33:08,823 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_vars.tmp
+2024-04-01 13:33:08,825 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_inc.tmp_save
+2024-04-01 13:33:08,969 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_inc.tmp
+2024-04-01 13:33:08,987 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_HalInit.tmp_save
+2024-04-01 13:33:09,079 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_HalInit.tmp
+2024-04-01 13:33:09,080 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_Msp.tmp_save
+2024-04-01 13:33:09,142 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_Msp.tmp
+2024-04-01 13:33:09,271 [WARN] IPConfigManager:2946 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-04-01 13:33:09,304 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-04-01 13:33:09,307 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_inc.tmp_save
+2024-04-01 13:33:09,356 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_inc.tmp
+2024-04-01 13:33:09,357 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelInit.tmp_save
+2024-04-01 13:33:09,402 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelInit.tmp
+2024-04-01 13:33:09,404 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelStart.tmp_save
+2024-04-01 13:33:09,446 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelStart.tmp
+2024-04-01 13:33:09,447 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_typedefs.tmp_save
+2024-04-01 13:33:09,492 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_typedefs.tmp
+2024-04-01 13:33:09,494 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_vars.tmp_save
+2024-04-01 13:33:09,542 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_vars.tmp
+2024-04-01 13:33:09,543 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_pfp.tmp_save
+2024-04-01 13:33:09,588 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_pfp.tmp
+2024-04-01 13:33:09,590 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_obj_creat.tmp_save
+2024-04-01 13:33:09,636 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_obj_creat.tmp
+2024-04-01 13:33:09,637 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_default_thread.tmp_save
+2024-04-01 13:33:09,680 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_default_thread.tmp
+2024-04-01 13:33:09,681 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_threads.tmp_save
+2024-04-01 13:33:09,725 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_threads.tmp
+2024-04-01 13:33:09,733 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-04-01 13:33:09,742 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-04-01 13:33:09,743 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_inc.tmp_save
+2024-04-01 13:33:09,787 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_inc.tmp
+2024-04-01 13:33:09,788 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelInit.tmp_save
+2024-04-01 13:33:09,834 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelInit.tmp
+2024-04-01 13:33:09,835 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelStart.tmp_save
+2024-04-01 13:33:09,886 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelStart.tmp
+2024-04-01 13:33:09,888 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_typedefs.tmp_save
+2024-04-01 13:33:09,945 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_typedefs.tmp
+2024-04-01 13:33:09,946 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_vars.tmp_save
+2024-04-01 13:33:10,000 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_vars.tmp
+2024-04-01 13:33:10,002 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_pfp.tmp_save
+2024-04-01 13:33:10,050 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_pfp.tmp
+2024-04-01 13:33:10,052 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_obj_creat.tmp_save
+2024-04-01 13:33:10,104 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_obj_creat.tmp
+2024-04-01 13:33:10,105 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_default_thread.tmp_save
+2024-04-01 13:33:10,154 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_default_thread.tmp
+2024-04-01 13:33:10,156 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_threads.tmp_save
+2024-04-01 13:33:10,211 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_threads.tmp
+2024-04-01 13:33:10,213 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/FreeRTOSConfig.h_save
+2024-04-01 13:33:10,361 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/FreeRTOSConfig.h
+2024-04-01 13:33:10,378 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/freertos.c_save
+2024-04-01 13:33:10,434 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/freertos.c
+2024-04-01 13:33:10,448 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-04-01 13:33:10,460 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/App/lwip.c_save
+2024-04-01 13:33:10,523 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/App/lwip.c
+2024-04-01 13:33:10,525 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/App/lwip.h_save
+2024-04-01 13:33:10,578 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/App/lwip.h
+2024-04-01 13:33:10,579 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/Target/lwipopts.h_save
+2024-04-01 13:33:10,719 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/Target/lwipopts.h
+2024-04-01 13:33:10,722 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/Target/ethernetif.c_save
+2024-04-01 13:33:10,790 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/Target/ethernetif.c
+2024-04-01 13:33:10,792 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/Target/ethernetif.h_save
+2024-04-01 13:33:10,838 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/Target/ethernetif.h
+2024-04-01 13:33:10,872 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/stm32f4xx_it.c_save
+2024-04-01 13:33:10,976 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/stm32f4xx_it.c
+2024-04-01 13:33:10,978 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/stm32f4xx_it.h_save
+2024-04-01 13:33:11,023 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/stm32f4xx_it.h
+2024-04-01 13:33:11,040 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/stm32f4xx_hal_msp.c_save
+2024-04-01 13:33:11,108 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/stm32f4xx_hal_msp.c
+2024-04-01 13:33:11,109 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/system.tmp_save
+2024-04-01 13:33:11,155 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/system.tmp
+2024-04-01 13:33:11,156 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/stm32f4xx_hal_timebase_tim.c_save
+2024-04-01 13:33:11,204 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/stm32f4xx_hal_timebase_tim.c
+2024-04-01 13:33:11,208 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/stm32f4xx_hal_conf.h_save
+2024-04-01 13:33:11,261 [INFO] CodeEngine:335 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/stm32f4xx_hal_conf.h
+2024-04-01 13:33:11,311 [WARN] IPConfigManager:3440 - IP not found : USB_OTG
+2024-04-01 13:33:11,312 [WARN] CodeGenerator:3939 - IP not found : null
+2024-04-01 13:33:11,318 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/main.h_save
+2024-04-01 13:33:11,388 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/main.h
+2024-04-01 13:33:11,392 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/main.c_save
+2024-04-01 13:33:11,491 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/main.c
+2024-04-01 13:33:12,296 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 236mS.
+2024-04-01 13:33:12,310 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-04-01 13:33:12,624 [INFO] ConfigFileManager:1495 - The Die is : DIE419
+2024-04-01 13:33:15,205 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 2891mS.
+2024-04-01 13:33:15,210 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-04-01 13:33:15,214 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-04-01 14:13:02,620 [INFO] MainUpdater:2873 - connection check result : 10
+2024-04-01 14:13:02,627 [INFO] MainUpdater:2873 - connection check result : 10
+2024-04-01 14:13:03,141 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-04-01 14:13:03,141 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.100
+2024-04-01 14:13:03,190 [ERROR] ProjectManagerView:394 - 
+java.lang.NullPointerException: Cannot invoke "javax.swing.JTextField.getText()" because the return value of "java.util.List.get(int)" is null
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab$10.caretUpdate(ProjectChoiceTab.java:2493) ~[filemanager.jar:?]
+	at javax.swing.text.JTextComponent.fireCaretUpdate(JTextComponent.java:412) ~[?:?]
+	at javax.swing.text.JTextComponent$MutableCaretEvent.fire(JTextComponent.java:4491) ~[?:?]
+	at javax.swing.text.JTextComponent$MutableCaretEvent.stateChanged(JTextComponent.java:4513) ~[?:?]
+	at javax.swing.text.DefaultCaret.fireStateChanged(DefaultCaret.java:842) ~[?:?]
+	at javax.swing.text.DefaultCaret.changeCaretPosition(DefaultCaret.java:1313) ~[?:?]
+	at javax.swing.text.DefaultCaret.handleSetDot(DefaultCaret.java:1212) ~[?:?]
+	at javax.swing.text.DefaultCaret.setDot(DefaultCaret.java:1193) ~[?:?]
+	at javax.swing.text.DefaultCaret$Handler.insertUpdate(DefaultCaret.java:1789) ~[?:?]
+	at javax.swing.text.AbstractDocument.fireInsertUpdate(AbstractDocument.java:226) ~[?:?]
+	at javax.swing.text.AbstractDocument.handleInsertString(AbstractDocument.java:780) ~[?:?]
+	at javax.swing.text.AbstractDocument.insertString(AbstractDocument.java:739) ~[?:?]
+	at javax.swing.text.PlainDocument.insertString(PlainDocument.java:131) ~[?:?]
+	at javax.swing.text.AbstractDocument.replace(AbstractDocument.java:698) ~[?:?]
+	at javax.swing.text.JTextComponent.setText(JTextComponent.java:1729) ~[?:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.createHeapStackFields(ProjectChoiceTab.java:933) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.buildLinkSettingsPanel(ProjectChoiceTab.java:3426) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.defineWindowsFields(ProjectChoiceTab.java:1813) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.updateSettings(ProjectChoiceTab.java:533) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectSettingsPanel.UpdateDialog(ProjectSettingsPanel.java:244) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.ProjectManagerView.propertyChange(ProjectManagerView.java:391) ~[filemanager.jar:?]
+	at java.beans.PropertyChangeSupport.fire(PropertyChangeSupport.java:343) ~[?:?]
+	at java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:335) ~[?:?]
+	at java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:268) ~[?:?]
+	at com.st.microxplorer.util.MXPropertyChangeSupport.firePropertyChange(MXPropertyChangeSupport.java:54) ~[STM32CubeMX.jar:?]
+	at com.st.microxplorer.mxsystem.MxSystem.closeConfig(MxSystem.java:900) ~[STM32CubeMX.jar:?]
+	at com.st.microxplorer.maingui.MainPanel.closeConfig(MainPanel.java:776) ~[STM32CubeMX.jar:?]
+	at com.st.microxplorer.plugins.filemanager.engine.OpenFileManager.loadConfigurationFile(OpenFileManager.java:245) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.filemanager.engine.MainFileManager.userLoadConfig(MainFileManager.java:290) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.filemanager.FileManagerView.getSpecificTask(FileManagerView.java:247) ~[filemanager.jar:?]
+	at com.st.stm32cube.common.mx.editor.CubeMxEditor.getMxTabbedPaneInstance(CubeMxEditor.java:1184) ~[com.st.stm32cube.common.mx_6.10.0.202311202037/:?]
+	at com.st.stm32cube.common.mx.editor.CubeMxEditor$12$1.createSwingComponent(CubeMxEditor.java:1065) ~[com.st.stm32cube.common.mx_6.10.0.202311202037/:?]
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite.doComponentCreation(EmbeddedSwingComposite.java:492) ~[com.st.stm32cube.common.mx.oss_6.10.0.202311202037/:?]
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite$4.run(EmbeddedSwingComposite.java:291) ~[com.st.stm32cube.common.mx.oss_6.10.0.202311202037/:?]
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment$2.run(AwtEnvironment.java:166) ~[com.st.stm32cube.common.mx.oss_6.10.0.202311202037/:?]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318) ~[?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:720) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:714) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:399) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86) ~[?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:742) ~[?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) ~[?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) ~[?:?]
+2024-04-01 14:13:03,193 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2024-04-01 14:13:03,194 [INFO] ThirdParty:873 - entering critical section [close project]
+2024-04-01 14:13:03,194 [INFO] ThirdParty:883 - exiting critical section [close project]
+2024-04-01 14:13:03,198 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-04-01 14:13:03,232 [WARN] IpParametersView:151 - Warning: This peripheral hasn't parameters
+2024-04-01 14:13:03,262 [WARN] MainPanel:272 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2024-04-01 14:13:03,270 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 864390952 Bytes (1073741824)
+2024-04-01 14:13:03,271 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-04-01 14:13:03,271 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.100
+2024-04-01 14:13:03,271 [INFO] OpenFileManager:312 - Change cursor
+2024-04-01 14:13:03,290 [INFO] RulesReader:64 - Compatibility file has been processed (297 Rules)
+2024-04-01 14:13:03,297 [INFO] Mcu:2016 - Initializing MCU STM32F429ZITx STM32F429ZITx STM32F429ZIT6
+2024-04-01 14:13:04,934 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2024-04-01 14:13:05,316 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2024-04-01 14:13:05,317 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2024-04-01 14:13:05,317 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2024-04-01 14:13:05,317 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2024-04-01 14:13:05,317 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2024-04-01 14:13:05,373 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,377 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:13:05,447 [INFO] ThirdPartyModel:298 - Start build external matchings
+2024-04-01 14:13:05,723 [INFO] ThirdPartyModel:316 - End build external matchings
+2024-04-01 14:13:05,740 [INFO] RtosManager:919 - Current active RTOS is FREERTOS [Cortex-M4NS]
+2024-04-01 14:13:05,756 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (ETH) : Invalid parameter (PHY_Name)
+2024-04-01 14:13:05,756 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (ETH) : Invalid parameter (PHY_Value)
+2024-04-01 14:13:05,756 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (ETH) : Invalid parameter (PhyAddress)
+2024-04-01 14:13:05,762 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (ADC12outputFreq_Value)
+2024-04-01 14:13:05,762 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (ADC34outputFreq_Value)
+2024-04-01 14:13:05,762 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (FamilyName)
+2024-04-01 14:13:05,762 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (I2C1Freq_Value)
+2024-04-01 14:13:05,762 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (I2C2Freq_Value)
+2024-04-01 14:13:05,762 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (I2C3Freq_Value)
+2024-04-01 14:13:05,763 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (MCO2PinFreq_Value) has invalid value (168000000)
+2024-04-01 14:13:05,763 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (MCOFreq_Value)
+2024-04-01 14:13:05,763 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (PLLMCOFreq_Value)
+2024-04-01 14:13:05,763 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (PLLMUL)
+2024-04-01 14:13:05,763 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (PRESCALERUSB)
+2024-04-01 14:13:05,763 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (RTCHSEDivFreq_Value) has invalid value (4000000)
+2024-04-01 14:13:05,763 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (SYSCLKSourceVirtual)
+2024-04-01 14:13:05,763 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM15Freq_Value)
+2024-04-01 14:13:05,763 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM16Freq_Value)
+2024-04-01 14:13:05,763 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM17Freq_Value)
+2024-04-01 14:13:05,763 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM1Freq_Value)
+2024-04-01 14:13:05,763 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM20Freq_Value)
+2024-04-01 14:13:05,763 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM2Freq_Value)
+2024-04-01 14:13:05,763 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM3Freq_Value)
+2024-04-01 14:13:05,763 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM8Freq_Value)
+2024-04-01 14:13:05,763 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (UART4Freq_Value)
+2024-04-01 14:13:05,763 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (UART5Freq_Value)
+2024-04-01 14:13:05,763 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (USART1Freq_Value)
+2024-04-01 14:13:05,763 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (USART2Freq_Value)
+2024-04-01 14:13:05,764 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (USART3Freq_Value)
+2024-04-01 14:13:05,764 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (USBFreq_Value)
+2024-04-01 14:13:05,764 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (VCOOutput2Freq_Value)
+2024-04-01 14:13:06,017 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 767225008 Bytes (1073741824)
+2024-04-01 14:13:06,178 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-04-01 14:13:06,181 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.100
+2024-04-01 14:13:06,181 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2024-04-01 14:13:06,181 [INFO] ThirdParty:835 - entering critical section [change project]
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USBPD 4.1
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 2.0.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.6.6
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.23.1
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.23.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 2.0.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.1.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :ITTIA_DB I-CUBE-ITTIADB 8.8.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SAFEA1 1.2.2
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.2
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :Infineon AIROC-Wi-Fi-Bluetooth-STM32 1.5.1
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 3.0.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENVWB1 1.3.1
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 7.0.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 2.0.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 5.1.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.3.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 10.0.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.1.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.0.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 3.1.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-SMARTAG2 1.2.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 5.0.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.1.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.4.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.4.1
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.2.0
+2024-04-01 14:13:06,182 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2024-04-01 14:13:06,184 [INFO] ThirdParty:841 - exiting critical section [change project]
+2024-04-01 14:13:06,560 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-04-01 14:13:06,563 [INFO] PinOutPanel:1499 - setPackage(STM32F429ZITx,LQFP144)
+2024-04-01 14:13:06,855 [INFO] UtilMem:75 - Before build in PCC Used Memory: 756605800 Bytes (1073741824)
+2024-04-01 14:13:07,012 [INFO] UtilMem:75 - After build in PCC Used Memory: 804313960 Bytes (1073741824)
+2024-04-01 14:13:07,023 [INFO] ApiDbMcu:508 - Load IP Config File for FREERTOS
+2024-04-01 14:13:07,028 [INFO] ApiDbMcu:508 - Load IP Config File for LWIP
+2024-04-01 14:13:07,051 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,051 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,051 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,051 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,051 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,051 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,051 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,051 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,051 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,051 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,052 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,052 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,052 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,052 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,052 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,052 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,052 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,052 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,052 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,052 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,052 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,053 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,053 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,053 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,053 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,053 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,053 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,053 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,053 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,053 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,054 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,054 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,054 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,054 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,054 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,054 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,054 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,054 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,054 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,054 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,054 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,054 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,054 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,054 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,054 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,054 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,055 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,055 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,055 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,055 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,055 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,055 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,055 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,055 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,055 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,055 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,055 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,055 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,056 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,056 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,056 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,056 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,059 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,059 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,059 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,059 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:13:07,063 [INFO] ApiDbMcu:508 - Load IP Config File for PDM2PCM
+2024-04-01 14:13:07,072 [WARN] FreeRTOS:1023 - Null or empty value: should not occur! (nothing added to the table)
+2024-04-01 14:13:07,133 [INFO] CADModel:165 - CPN selected for project levelSTM32F429ZIT6
+2024-04-01 14:13:07,134 [INFO] CADModel:114 - Register for checkConnection events
+2024-04-01 14:13:07,135 [INFO] RtosManager:697 - Active RTOS found at IOC load: FREERTOS [Cortex-M4NS]
+2024-04-01 14:13:07,180 [INFO] OpenFileManager:343 - Restore cursor
+2024-04-01 14:13:07,386 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 14:13:07,406 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 14:13:14,279 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2024-04-01 14:13:31,895 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-04-01 14:13:31,896 [WARN] TasksAndQueuesTab:763 - 3840 128
+2024-04-01 14:13:31,896 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-04-01 14:13:31,896 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-04-01 14:13:31,896 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-04-01 14:13:31,896 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-04-01 14:13:35,914 [INFO] EditThreadDialog:704 - RAM SIZE (in KB): 192
+2024-04-01 14:13:35,914 [INFO] EditThreadDialog:706 - RAM SIZE (in words): 49152
+2024-04-01 14:13:41,502 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-04-01 14:13:41,503 [WARN] TasksAndQueuesTab:763 - 512 128
+2024-04-01 14:13:41,503 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-04-01 14:13:41,503 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-04-01 14:13:41,503 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-04-01 14:13:41,503 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-04-01 14:13:44,384 [INFO] EditThreadDialog:704 - RAM SIZE (in KB): 192
+2024-04-01 14:13:44,389 [INFO] EditThreadDialog:706 - RAM SIZE (in words): 49152
+2024-04-01 14:13:48,357 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-04-01 14:13:48,357 [WARN] TasksAndQueuesTab:763 - 512 128
+2024-04-01 14:13:48,358 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-04-01 14:13:48,358 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-04-01 14:13:48,358 [WARN] TasksAndQueuesTab:763 - 512 128
+2024-04-01 14:13:48,358 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-04-01 14:13:58,537 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-04-01 14:13:58,538 [WARN] TasksAndQueuesTab:763 - 512 128
+2024-04-01 14:13:58,538 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-04-01 14:13:58,538 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-04-01 14:13:58,538 [WARN] TasksAndQueuesTab:763 - 512 128
+2024-04-01 14:13:58,538 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-04-01 14:14:00,163 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 14:14:05,861 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 14:14:05,879 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 14:14:05,968 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 14:14:31,573 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 14:14:31,613 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 14:14:31,733 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 14:14:47,243 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 14:14:47,275 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 14:14:47,387 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 14:14:59,972 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 730040944 Bytes (1073741824)
+2024-04-01 14:15:01,346 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 760449648 Bytes (1073741824)
+2024-04-01 14:15:04,066 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 746878032 Bytes (1073741824)
+2024-04-01 14:15:07,059 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-04-01 14:15:07,063 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-01 14:15:07,064 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-01 14:15:07,064 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-04-01 14:15:07,064 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-01 14:15:07,064 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LWIP
+2024-04-01 14:15:07,064 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-01 14:15:07,064 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-01 14:15:07,064 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ETH
+2024-04-01 14:15:07,065 [INFO] CodeGenerator:807 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.10.0.202311202037//db/
+2024-04-01 14:15:07,086 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 14:15:07,419 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/license.tmp_save
+2024-04-01 14:15:07,548 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/license.tmp
+2024-04-01 14:15:07,586 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/gpio.tmp_save
+2024-04-01 14:15:07,649 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/gpio.tmp
+2024-04-01 14:15:07,712 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_vars.tmp_save
+2024-04-01 14:15:07,787 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_vars.tmp
+2024-04-01 14:15:07,789 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_inc.tmp_save
+2024-04-01 14:15:07,845 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_inc.tmp
+2024-04-01 14:15:07,847 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_HalInit.tmp_save
+2024-04-01 14:15:07,923 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_HalInit.tmp
+2024-04-01 14:15:07,925 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_Msp.tmp_save
+2024-04-01 14:15:08,000 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_Msp.tmp
+2024-04-01 14:15:08,208 [WARN] IPConfigManager:2946 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-04-01 14:15:08,237 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-04-01 14:15:08,240 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_inc.tmp_save
+2024-04-01 14:15:08,463 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_inc.tmp
+2024-04-01 14:15:08,481 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelInit.tmp_save
+2024-04-01 14:15:08,542 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelInit.tmp
+2024-04-01 14:15:08,543 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelStart.tmp_save
+2024-04-01 14:15:08,589 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelStart.tmp
+2024-04-01 14:15:08,590 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_typedefs.tmp_save
+2024-04-01 14:15:08,639 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_typedefs.tmp
+2024-04-01 14:15:08,640 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_vars.tmp_save
+2024-04-01 14:15:08,688 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_vars.tmp
+2024-04-01 14:15:08,689 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_pfp.tmp_save
+2024-04-01 14:15:08,736 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_pfp.tmp
+2024-04-01 14:15:08,737 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_obj_creat.tmp_save
+2024-04-01 14:15:08,785 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_obj_creat.tmp
+2024-04-01 14:15:08,786 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_default_thread.tmp_save
+2024-04-01 14:15:08,831 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_default_thread.tmp
+2024-04-01 14:15:08,832 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_threads.tmp_save
+2024-04-01 14:15:08,876 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_threads.tmp
+2024-04-01 14:15:08,895 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-04-01 14:15:08,910 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-04-01 14:15:08,915 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_inc.tmp_save
+2024-04-01 14:15:08,960 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_inc.tmp
+2024-04-01 14:15:08,961 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelInit.tmp_save
+2024-04-01 14:15:09,017 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelInit.tmp
+2024-04-01 14:15:09,019 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelStart.tmp_save
+2024-04-01 14:15:09,063 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelStart.tmp
+2024-04-01 14:15:09,064 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_typedefs.tmp_save
+2024-04-01 14:15:09,108 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_typedefs.tmp
+2024-04-01 14:15:09,110 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_vars.tmp_save
+2024-04-01 14:15:09,156 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_vars.tmp
+2024-04-01 14:15:09,158 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_pfp.tmp_save
+2024-04-01 14:15:09,201 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_pfp.tmp
+2024-04-01 14:15:09,203 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_obj_creat.tmp_save
+2024-04-01 14:15:09,264 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_obj_creat.tmp
+2024-04-01 14:15:09,265 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_default_thread.tmp_save
+2024-04-01 14:15:09,310 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_default_thread.tmp
+2024-04-01 14:15:09,326 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_threads.tmp_save
+2024-04-01 14:15:09,371 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_threads.tmp
+2024-04-01 14:15:09,374 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/FreeRTOSConfig.h_save
+2024-04-01 14:15:09,437 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/FreeRTOSConfig.h
+2024-04-01 14:15:09,438 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/freertos.c_save
+2024-04-01 14:15:09,488 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/freertos.c
+2024-04-01 14:15:09,494 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-04-01 14:15:09,501 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/App/lwip.c_save
+2024-04-01 14:15:09,578 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/App/lwip.c
+2024-04-01 14:15:09,580 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/App/lwip.h_save
+2024-04-01 14:15:09,633 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/App/lwip.h
+2024-04-01 14:15:09,635 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/Target/lwipopts.h_save
+2024-04-01 14:15:09,766 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/Target/lwipopts.h
+2024-04-01 14:15:09,768 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/Target/ethernetif.c_save
+2024-04-01 14:15:09,830 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/Target/ethernetif.c
+2024-04-01 14:15:09,831 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/Target/ethernetif.h_save
+2024-04-01 14:15:09,891 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/Target/ethernetif.h
+2024-04-01 14:15:09,932 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/stm32f4xx_it.c_save
+2024-04-01 14:15:10,052 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/stm32f4xx_it.c
+2024-04-01 14:15:10,054 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/stm32f4xx_it.h_save
+2024-04-01 14:15:10,106 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/stm32f4xx_it.h
+2024-04-01 14:15:10,121 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/stm32f4xx_hal_msp.c_save
+2024-04-01 14:15:10,199 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/stm32f4xx_hal_msp.c
+2024-04-01 14:15:10,200 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/system.tmp_save
+2024-04-01 14:15:10,319 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/system.tmp
+2024-04-01 14:15:10,338 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/stm32f4xx_hal_timebase_tim.c_save
+2024-04-01 14:15:10,407 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/stm32f4xx_hal_timebase_tim.c
+2024-04-01 14:15:10,418 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/stm32f4xx_hal_conf.h_save
+2024-04-01 14:15:10,480 [INFO] CodeEngine:335 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/stm32f4xx_hal_conf.h
+2024-04-01 14:15:10,583 [WARN] IPConfigManager:3440 - IP not found : USB_OTG
+2024-04-01 14:15:10,584 [WARN] CodeGenerator:3939 - IP not found : null
+2024-04-01 14:15:10,590 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/main.h_save
+2024-04-01 14:15:10,655 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/main.h
+2024-04-01 14:15:10,657 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/main.c_save
+2024-04-01 14:15:10,746 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/main.c
+2024-04-01 14:15:11,521 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 402mS.
+2024-04-01 14:15:11,541 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-04-01 14:15:11,918 [INFO] ConfigFileManager:1495 - The Die is : DIE419
+2024-04-01 14:15:11,940 [INFO] ApiDbMcu:508 - Load IP Config File for FATFS
+2024-04-01 14:15:11,943 [INFO] ApiDbMcu:508 - Load IP Config File for LIBJPEG
+2024-04-01 14:15:11,950 [INFO] ApiDbMcu:508 - Load IP Config File for MBEDTLS
+2024-04-01 14:15:11,957 [INFO] ApiDbMcu:508 - Load IP Config File for USB_DEVICE
+2024-04-01 14:15:11,961 [INFO] ApiDbMcu:508 - Load IP Config File for USB_HOST
+2024-04-01 14:15:14,881 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 3336mS.
+2024-04-01 14:15:14,894 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-04-01 14:15:14,902 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-04-01 14:15:33,599 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 14:15:33,637 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 14:15:33,836 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 14:16:38,887 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 891752976 Bytes (1073741824)
+2024-04-01 14:16:40,595 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 764635640 Bytes (1073741824)
+2024-04-01 14:16:41,217 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 754975080 Bytes (1073741824)
+2024-04-01 14:16:43,062 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-04-01 14:16:43,065 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-01 14:16:43,065 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-01 14:16:43,065 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-04-01 14:16:43,065 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-01 14:16:43,065 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LWIP
+2024-04-01 14:16:43,065 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-01 14:16:43,069 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-01 14:16:43,069 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ETH
+2024-04-01 14:16:43,070 [INFO] CodeGenerator:807 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.10.0.202311202037//db/
+2024-04-01 14:16:43,096 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 14:16:43,362 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/license.tmp_save
+2024-04-01 14:16:43,471 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/license.tmp
+2024-04-01 14:16:43,497 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/gpio.tmp_save
+2024-04-01 14:16:43,563 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/gpio.tmp
+2024-04-01 14:16:43,611 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_vars.tmp_save
+2024-04-01 14:16:43,792 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_vars.tmp
+2024-04-01 14:16:43,806 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_inc.tmp_save
+2024-04-01 14:16:43,855 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_inc.tmp
+2024-04-01 14:16:43,857 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_HalInit.tmp_save
+2024-04-01 14:16:43,921 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_HalInit.tmp
+2024-04-01 14:16:43,922 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_Msp.tmp_save
+2024-04-01 14:16:43,978 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_Msp.tmp
+2024-04-01 14:16:44,084 [WARN] IPConfigManager:2946 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-04-01 14:16:44,118 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-04-01 14:16:44,121 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_inc.tmp_save
+2024-04-01 14:16:44,166 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_inc.tmp
+2024-04-01 14:16:44,167 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelInit.tmp_save
+2024-04-01 14:16:44,209 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelInit.tmp
+2024-04-01 14:16:44,210 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelStart.tmp_save
+2024-04-01 14:16:44,252 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelStart.tmp
+2024-04-01 14:16:44,253 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_typedefs.tmp_save
+2024-04-01 14:16:44,297 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_typedefs.tmp
+2024-04-01 14:16:44,299 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_vars.tmp_save
+2024-04-01 14:16:44,354 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_vars.tmp
+2024-04-01 14:16:44,356 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_pfp.tmp_save
+2024-04-01 14:16:44,399 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_pfp.tmp
+2024-04-01 14:16:44,400 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_obj_creat.tmp_save
+2024-04-01 14:16:44,443 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_obj_creat.tmp
+2024-04-01 14:16:44,444 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_default_thread.tmp_save
+2024-04-01 14:16:44,487 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_default_thread.tmp
+2024-04-01 14:16:44,488 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_threads.tmp_save
+2024-04-01 14:16:44,532 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_threads.tmp
+2024-04-01 14:16:44,539 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-04-01 14:16:44,547 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-04-01 14:16:44,549 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_inc.tmp_save
+2024-04-01 14:16:44,590 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_inc.tmp
+2024-04-01 14:16:44,591 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelInit.tmp_save
+2024-04-01 14:16:44,633 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelInit.tmp
+2024-04-01 14:16:44,634 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelStart.tmp_save
+2024-04-01 14:16:44,676 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelStart.tmp
+2024-04-01 14:16:44,678 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_typedefs.tmp_save
+2024-04-01 14:16:44,721 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_typedefs.tmp
+2024-04-01 14:16:44,722 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_vars.tmp_save
+2024-04-01 14:16:44,766 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_vars.tmp
+2024-04-01 14:16:44,767 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_pfp.tmp_save
+2024-04-01 14:16:44,809 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_pfp.tmp
+2024-04-01 14:16:44,810 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_obj_creat.tmp_save
+2024-04-01 14:16:44,854 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_obj_creat.tmp
+2024-04-01 14:16:44,855 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_default_thread.tmp_save
+2024-04-01 14:16:44,897 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_default_thread.tmp
+2024-04-01 14:16:44,898 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_threads.tmp_save
+2024-04-01 14:16:44,940 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_threads.tmp
+2024-04-01 14:16:44,942 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/FreeRTOSConfig.h_save
+2024-04-01 14:16:45,000 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/FreeRTOSConfig.h
+2024-04-01 14:16:45,002 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/freertos.c_save
+2024-04-01 14:16:45,048 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/freertos.c
+2024-04-01 14:16:45,053 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-04-01 14:16:45,060 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/App/lwip.c_save
+2024-04-01 14:16:45,132 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/App/lwip.c
+2024-04-01 14:16:45,134 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/App/lwip.h_save
+2024-04-01 14:16:45,185 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/App/lwip.h
+2024-04-01 14:16:45,186 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/Target/lwipopts.h_save
+2024-04-01 14:16:45,315 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/Target/lwipopts.h
+2024-04-01 14:16:45,316 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/Target/ethernetif.c_save
+2024-04-01 14:16:45,377 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/Target/ethernetif.c
+2024-04-01 14:16:45,379 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/Target/ethernetif.h_save
+2024-04-01 14:16:45,488 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/Target/ethernetif.h
+2024-04-01 14:16:45,547 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/stm32f4xx_it.c_save
+2024-04-01 14:16:45,673 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/stm32f4xx_it.c
+2024-04-01 14:16:45,675 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/stm32f4xx_it.h_save
+2024-04-01 14:16:45,722 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/stm32f4xx_it.h
+2024-04-01 14:16:45,736 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/stm32f4xx_hal_msp.c_save
+2024-04-01 14:16:45,803 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/stm32f4xx_hal_msp.c
+2024-04-01 14:16:45,805 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/system.tmp_save
+2024-04-01 14:16:45,847 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/system.tmp
+2024-04-01 14:16:45,849 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/stm32f4xx_hal_timebase_tim.c_save
+2024-04-01 14:16:45,896 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/stm32f4xx_hal_timebase_tim.c
+2024-04-01 14:16:45,900 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/stm32f4xx_hal_conf.h_save
+2024-04-01 14:16:45,953 [INFO] CodeEngine:335 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/stm32f4xx_hal_conf.h
+2024-04-01 14:16:46,001 [WARN] IPConfigManager:3440 - IP not found : USB_OTG
+2024-04-01 14:16:46,002 [WARN] CodeGenerator:3939 - IP not found : null
+2024-04-01 14:16:46,008 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/main.h_save
+2024-04-01 14:16:46,063 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/main.h
+2024-04-01 14:16:46,065 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/main.c_save
+2024-04-01 14:16:46,142 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/main.c
+2024-04-01 14:16:46,796 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 276mS.
+2024-04-01 14:16:46,812 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-04-01 14:16:47,128 [INFO] ConfigFileManager:1495 - The Die is : DIE419
+2024-04-01 14:16:49,039 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 2225mS.
+2024-04-01 14:16:49,046 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 2mS.
+2024-04-01 14:16:49,051 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-04-01 14:30:01,413 [INFO] MainUpdater:2873 - connection check result : 10
+2024-04-01 14:30:01,418 [INFO] MainUpdater:2873 - connection check result : 10
+2024-04-01 14:30:01,882 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-04-01 14:30:01,882 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.100
+2024-04-01 14:30:01,940 [ERROR] ProjectManagerView:394 - 
+java.lang.NullPointerException: Cannot invoke "javax.swing.JTextField.getText()" because the return value of "java.util.List.get(int)" is null
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab$10.caretUpdate(ProjectChoiceTab.java:2493) ~[filemanager.jar:?]
+	at javax.swing.text.JTextComponent.fireCaretUpdate(JTextComponent.java:412) ~[?:?]
+	at javax.swing.text.JTextComponent$MutableCaretEvent.fire(JTextComponent.java:4491) ~[?:?]
+	at javax.swing.text.JTextComponent$MutableCaretEvent.stateChanged(JTextComponent.java:4513) ~[?:?]
+	at javax.swing.text.DefaultCaret.fireStateChanged(DefaultCaret.java:842) ~[?:?]
+	at javax.swing.text.DefaultCaret.changeCaretPosition(DefaultCaret.java:1313) ~[?:?]
+	at javax.swing.text.DefaultCaret.handleSetDot(DefaultCaret.java:1212) ~[?:?]
+	at javax.swing.text.DefaultCaret.setDot(DefaultCaret.java:1193) ~[?:?]
+	at javax.swing.text.DefaultCaret$Handler.insertUpdate(DefaultCaret.java:1789) ~[?:?]
+	at javax.swing.text.AbstractDocument.fireInsertUpdate(AbstractDocument.java:226) ~[?:?]
+	at javax.swing.text.AbstractDocument.handleInsertString(AbstractDocument.java:780) ~[?:?]
+	at javax.swing.text.AbstractDocument.insertString(AbstractDocument.java:739) ~[?:?]
+	at javax.swing.text.PlainDocument.insertString(PlainDocument.java:131) ~[?:?]
+	at javax.swing.text.AbstractDocument.replace(AbstractDocument.java:698) ~[?:?]
+	at javax.swing.text.JTextComponent.setText(JTextComponent.java:1729) ~[?:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.createHeapStackFields(ProjectChoiceTab.java:933) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.buildLinkSettingsPanel(ProjectChoiceTab.java:3426) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.defineWindowsFields(ProjectChoiceTab.java:1813) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.updateSettings(ProjectChoiceTab.java:533) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectSettingsPanel.UpdateDialog(ProjectSettingsPanel.java:244) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.ProjectManagerView.propertyChange(ProjectManagerView.java:391) ~[filemanager.jar:?]
+	at java.beans.PropertyChangeSupport.fire(PropertyChangeSupport.java:343) ~[?:?]
+	at java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:335) ~[?:?]
+	at java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:268) ~[?:?]
+	at com.st.microxplorer.util.MXPropertyChangeSupport.firePropertyChange(MXPropertyChangeSupport.java:54) ~[STM32CubeMX.jar:?]
+	at com.st.microxplorer.mxsystem.MxSystem.closeConfig(MxSystem.java:900) ~[STM32CubeMX.jar:?]
+	at com.st.microxplorer.maingui.MainPanel.closeConfig(MainPanel.java:776) ~[STM32CubeMX.jar:?]
+	at com.st.microxplorer.plugins.filemanager.engine.OpenFileManager.loadConfigurationFile(OpenFileManager.java:245) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.filemanager.engine.MainFileManager.userLoadConfig(MainFileManager.java:290) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.filemanager.FileManagerView.getSpecificTask(FileManagerView.java:247) ~[filemanager.jar:?]
+	at com.st.stm32cube.common.mx.editor.CubeMxEditor.getMxTabbedPaneInstance(CubeMxEditor.java:1184) ~[com.st.stm32cube.common.mx_6.10.0.202311202037/:?]
+	at com.st.stm32cube.common.mx.editor.CubeMxEditor$12$1.createSwingComponent(CubeMxEditor.java:1065) ~[com.st.stm32cube.common.mx_6.10.0.202311202037/:?]
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite.doComponentCreation(EmbeddedSwingComposite.java:492) ~[com.st.stm32cube.common.mx.oss_6.10.0.202311202037/:?]
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite$4.run(EmbeddedSwingComposite.java:291) ~[com.st.stm32cube.common.mx.oss_6.10.0.202311202037/:?]
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment$2.run(AwtEnvironment.java:166) ~[com.st.stm32cube.common.mx.oss_6.10.0.202311202037/:?]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318) ~[?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:720) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:714) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:399) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86) ~[?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:742) ~[?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) ~[?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) ~[?:?]
+2024-04-01 14:30:01,943 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2024-04-01 14:30:01,943 [INFO] ThirdParty:873 - entering critical section [close project]
+2024-04-01 14:30:01,943 [INFO] ThirdParty:883 - exiting critical section [close project]
+2024-04-01 14:30:01,947 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-04-01 14:30:01,978 [WARN] IpParametersView:151 - Warning: This peripheral hasn't parameters
+2024-04-01 14:30:02,000 [WARN] MainPanel:272 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2024-04-01 14:30:02,008 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 926658264 Bytes (1073741824)
+2024-04-01 14:30:02,008 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-04-01 14:30:02,008 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.100
+2024-04-01 14:30:02,009 [INFO] OpenFileManager:312 - Change cursor
+2024-04-01 14:30:02,029 [INFO] RulesReader:64 - Compatibility file has been processed (297 Rules)
+2024-04-01 14:30:02,037 [INFO] Mcu:2016 - Initializing MCU STM32F429ZITx STM32F429ZITx STM32F429ZIT6
+2024-04-01 14:30:03,531 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2024-04-01 14:30:03,913 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2024-04-01 14:30:03,913 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2024-04-01 14:30:03,913 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2024-04-01 14:30:03,913 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2024-04-01 14:30:03,913 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2024-04-01 14:30:03,959 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:03,964 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-04-01 14:30:04,033 [INFO] ThirdPartyModel:298 - Start build external matchings
+2024-04-01 14:30:04,299 [INFO] ThirdPartyModel:316 - End build external matchings
+2024-04-01 14:30:04,309 [INFO] RtosManager:919 - Current active RTOS is FREERTOS [Cortex-M4NS]
+2024-04-01 14:30:04,329 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (ETH) : Invalid parameter (PHY_Name)
+2024-04-01 14:30:04,329 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (ETH) : Invalid parameter (PHY_Value)
+2024-04-01 14:30:04,329 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (ETH) : Invalid parameter (PhyAddress)
+2024-04-01 14:30:04,338 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 14:30:04,355 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (ADC12outputFreq_Value)
+2024-04-01 14:30:04,355 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (ADC34outputFreq_Value)
+2024-04-01 14:30:04,355 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (FamilyName)
+2024-04-01 14:30:04,355 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (I2C1Freq_Value)
+2024-04-01 14:30:04,355 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (I2C2Freq_Value)
+2024-04-01 14:30:04,356 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (I2C3Freq_Value)
+2024-04-01 14:30:04,356 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (MCO2PinFreq_Value) has invalid value (168000000)
+2024-04-01 14:30:04,356 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (MCOFreq_Value)
+2024-04-01 14:30:04,356 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (PLLMCOFreq_Value)
+2024-04-01 14:30:04,356 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (PLLMUL)
+2024-04-01 14:30:04,356 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (PRESCALERUSB)
+2024-04-01 14:30:04,356 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (RTCHSEDivFreq_Value) has invalid value (4000000)
+2024-04-01 14:30:04,356 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (SYSCLKSourceVirtual)
+2024-04-01 14:30:04,356 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM15Freq_Value)
+2024-04-01 14:30:04,356 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM16Freq_Value)
+2024-04-01 14:30:04,356 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM17Freq_Value)
+2024-04-01 14:30:04,356 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM1Freq_Value)
+2024-04-01 14:30:04,356 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM20Freq_Value)
+2024-04-01 14:30:04,356 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM2Freq_Value)
+2024-04-01 14:30:04,356 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM3Freq_Value)
+2024-04-01 14:30:04,357 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM8Freq_Value)
+2024-04-01 14:30:04,357 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (UART4Freq_Value)
+2024-04-01 14:30:04,357 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (UART5Freq_Value)
+2024-04-01 14:30:04,357 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (USART1Freq_Value)
+2024-04-01 14:30:04,357 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (USART2Freq_Value)
+2024-04-01 14:30:04,357 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (USART3Freq_Value)
+2024-04-01 14:30:04,357 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (USBFreq_Value)
+2024-04-01 14:30:04,357 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (VCOOutput2Freq_Value)
+2024-04-01 14:30:04,562 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 742200000 Bytes (1073741824)
+2024-04-01 14:30:04,712 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-04-01 14:30:04,718 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.100
+2024-04-01 14:30:04,719 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2024-04-01 14:30:04,719 [INFO] ThirdParty:835 - entering critical section [change project]
+2024-04-01 14:30:04,719 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USBPD 4.1
+2024-04-01 14:30:04,719 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2024-04-01 14:30:04,719 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2024-04-01 14:30:04,719 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2024-04-01 14:30:04,719 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2024-04-01 14:30:04,719 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2024-04-01 14:30:04,719 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 2.0.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.6.6
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.23.1
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.23.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 2.0.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.1.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :ITTIA_DB I-CUBE-ITTIADB 8.8.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SAFEA1 1.2.2
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.2
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :Infineon AIROC-Wi-Fi-Bluetooth-STM32 1.5.1
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 3.0.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENVWB1 1.3.1
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 7.0.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 2.0.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 5.1.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.3.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 10.0.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.1.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.0.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 3.1.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-SMARTAG2 1.2.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 5.0.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.1.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.4.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.4.1
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.2.0
+2024-04-01 14:30:04,720 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2024-04-01 14:30:04,723 [INFO] ThirdParty:841 - exiting critical section [change project]
+2024-04-01 14:30:05,118 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-04-01 14:30:05,120 [INFO] PinOutPanel:1499 - setPackage(STM32F429ZITx,LQFP144)
+2024-04-01 14:30:05,387 [INFO] UtilMem:75 - Before build in PCC Used Memory: 781782624 Bytes (1073741824)
+2024-04-01 14:30:05,566 [INFO] UtilMem:75 - After build in PCC Used Memory: 780971944 Bytes (1073741824)
+2024-04-01 14:30:05,582 [INFO] ApiDbMcu:508 - Load IP Config File for FREERTOS
+2024-04-01 14:30:05,588 [INFO] ApiDbMcu:508 - Load IP Config File for LWIP
+2024-04-01 14:30:05,614 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,614 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,614 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,614 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,614 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,615 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,615 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,615 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,615 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,615 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,615 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,615 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,615 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,615 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,615 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,616 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,616 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,616 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,616 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,616 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,616 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,616 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,616 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,616 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,617 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,617 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,617 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,617 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,617 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,617 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,617 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,617 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,617 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,617 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,618 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,618 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,618 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,618 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,618 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,618 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,618 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,618 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,618 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,618 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,618 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,618 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,618 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,618 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,618 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,619 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,619 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,619 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,619 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,619 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,619 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,619 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,619 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,619 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,620 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,620 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,620 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,620 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,623 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,623 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,623 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,624 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-04-01 14:30:05,630 [INFO] ApiDbMcu:508 - Load IP Config File for PDM2PCM
+2024-04-01 14:30:05,638 [WARN] FreeRTOS:1023 - Null or empty value: should not occur! (nothing added to the table)
+2024-04-01 14:30:05,707 [INFO] CADModel:165 - CPN selected for project levelSTM32F429ZIT6
+2024-04-01 14:30:05,707 [INFO] CADModel:114 - Register for checkConnection events
+2024-04-01 14:30:05,709 [INFO] RtosManager:697 - Active RTOS found at IOC load: FREERTOS [Cortex-M4NS]
+2024-04-01 14:30:05,757 [INFO] OpenFileManager:343 - Restore cursor
+2024-04-01 14:30:05,966 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 14:30:05,987 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 14:30:15,279 [INFO] Gpio:277 - dependency for GPIO [ETH, RCC, SYS, USART3, USB_OTG_FS]
+2024-04-01 14:30:32,232 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 763249336 Bytes (1073741824)
+2024-04-01 14:30:34,561 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 796523232 Bytes (1073741824)
+2024-04-01 14:30:35,311 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 859950624 Bytes (1073741824)
+2024-04-01 14:30:37,647 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-04-01 14:30:37,650 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-01 14:30:37,651 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-01 14:30:37,651 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-04-01 14:30:37,651 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-01 14:30:37,651 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LWIP
+2024-04-01 14:30:37,651 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-01 14:30:37,655 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-01 14:30:37,655 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ETH
+2024-04-01 14:30:37,657 [INFO] CodeGenerator:807 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.10.0.202311202037//db/
+2024-04-01 14:30:37,685 [WARN] IP:2119 - LWIP_NETIF_HOSTNAME not found: check if there is a RefParameter without a condition.
+2024-04-01 14:30:37,962 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/license.tmp_save
+2024-04-01 14:30:38,090 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/license.tmp
+2024-04-01 14:30:38,124 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/gpio.tmp_save
+2024-04-01 14:30:38,184 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/gpio.tmp
+2024-04-01 14:30:38,231 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_vars.tmp_save
+2024-04-01 14:30:38,304 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_vars.tmp
+2024-04-01 14:30:38,305 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_inc.tmp_save
+2024-04-01 14:30:38,358 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_inc.tmp
+2024-04-01 14:30:38,360 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_HalInit.tmp_save
+2024-04-01 14:30:38,429 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_HalInit.tmp
+2024-04-01 14:30:38,431 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_Msp.tmp_save
+2024-04-01 14:30:38,499 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/eth_Msp.tmp
+2024-04-01 14:30:38,780 [WARN] IPConfigManager:2946 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-04-01 14:30:38,812 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-04-01 14:30:38,822 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_inc.tmp_save
+2024-04-01 14:30:38,888 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_inc.tmp
+2024-04-01 14:30:38,890 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelInit.tmp_save
+2024-04-01 14:30:38,942 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelInit.tmp
+2024-04-01 14:30:38,943 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelStart.tmp_save
+2024-04-01 14:30:38,989 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelStart.tmp
+2024-04-01 14:30:38,990 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_typedefs.tmp_save
+2024-04-01 14:30:39,038 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_typedefs.tmp
+2024-04-01 14:30:39,040 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_vars.tmp_save
+2024-04-01 14:30:39,086 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_vars.tmp
+2024-04-01 14:30:39,088 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_pfp.tmp_save
+2024-04-01 14:30:39,131 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_pfp.tmp
+2024-04-01 14:30:39,132 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_obj_creat.tmp_save
+2024-04-01 14:30:39,178 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_obj_creat.tmp
+2024-04-01 14:30:39,179 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_default_thread.tmp_save
+2024-04-01 14:30:39,224 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_default_thread.tmp
+2024-04-01 14:30:39,225 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_threads.tmp_save
+2024-04-01 14:30:39,270 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_threads.tmp
+2024-04-01 14:30:39,278 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-04-01 14:30:39,294 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-04-01 14:30:39,296 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_inc.tmp_save
+2024-04-01 14:30:39,343 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_inc.tmp
+2024-04-01 14:30:39,344 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelInit.tmp_save
+2024-04-01 14:30:39,388 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelInit.tmp
+2024-04-01 14:30:39,389 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelStart.tmp_save
+2024-04-01 14:30:39,433 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_kernelStart.tmp
+2024-04-01 14:30:39,435 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_typedefs.tmp_save
+2024-04-01 14:30:39,479 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_typedefs.tmp
+2024-04-01 14:30:39,480 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_vars.tmp_save
+2024-04-01 14:30:39,536 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_vars.tmp
+2024-04-01 14:30:39,537 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_pfp.tmp_save
+2024-04-01 14:30:39,583 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_pfp.tmp
+2024-04-01 14:30:39,584 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_obj_creat.tmp_save
+2024-04-01 14:30:39,630 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_obj_creat.tmp
+2024-04-01 14:30:39,631 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_default_thread.tmp_save
+2024-04-01 14:30:39,675 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_default_thread.tmp
+2024-04-01 14:30:39,676 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_threads.tmp_save
+2024-04-01 14:30:39,720 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/rtos_threads.tmp
+2024-04-01 14:30:39,725 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/FreeRTOSConfig.h_save
+2024-04-01 14:30:39,785 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/FreeRTOSConfig.h
+2024-04-01 14:30:39,788 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/freertos.c_save
+2024-04-01 14:30:39,838 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/freertos.c
+2024-04-01 14:30:39,843 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-04-01 14:30:39,851 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/App/lwip.c_save
+2024-04-01 14:30:39,906 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/App/lwip.c
+2024-04-01 14:30:39,908 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/App/lwip.h_save
+2024-04-01 14:30:39,958 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/App/lwip.h
+2024-04-01 14:30:39,960 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/Target/lwipopts.h_save
+2024-04-01 14:30:40,100 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/Target/lwipopts.h
+2024-04-01 14:30:40,103 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/Target/ethernetif.c_save
+2024-04-01 14:30:40,172 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/Target/ethernetif.c
+2024-04-01 14:30:40,174 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/Target/ethernetif.h_save
+2024-04-01 14:30:40,228 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/LWIP/Target/ethernetif.h
+2024-04-01 14:30:40,257 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/stm32f4xx_it.c_save
+2024-04-01 14:30:40,365 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/stm32f4xx_it.c
+2024-04-01 14:30:40,366 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/stm32f4xx_it.h_save
+2024-04-01 14:30:40,434 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/stm32f4xx_it.h
+2024-04-01 14:30:40,447 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/stm32f4xx_hal_msp.c_save
+2024-04-01 14:30:40,598 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/stm32f4xx_hal_msp.c
+2024-04-01 14:30:40,616 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/system.tmp_save
+2024-04-01 14:30:40,666 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/MXTmpFiles/system.tmp
+2024-04-01 14:30:40,668 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/stm32f4xx_hal_timebase_tim.c_save
+2024-04-01 14:30:40,717 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/stm32f4xx_hal_timebase_tim.c
+2024-04-01 14:30:40,727 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/stm32f4xx_hal_conf.h_save
+2024-04-01 14:30:40,782 [INFO] CodeEngine:335 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/stm32f4xx_hal_conf.h
+2024-04-01 14:30:40,872 [WARN] IPConfigManager:3440 - IP not found : USB_OTG
+2024-04-01 14:30:40,872 [WARN] CodeGenerator:3939 - IP not found : null
+2024-04-01 14:30:40,879 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/main.h_save
+2024-04-01 14:30:40,950 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Inc/main.h
+2024-04-01 14:30:40,953 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/main.c_save
+2024-04-01 14:30:41,032 [INFO] CodeEngine:279 - Generated code: /Users/robert/Desktop/STM32/GraviTE/freeEthernet/Core/Src/main.c
+2024-04-01 14:30:41,824 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 323mS.
+2024-04-01 14:30:41,843 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-04-01 14:30:42,156 [INFO] ConfigFileManager:1495 - The Die is : DIE419
+2024-04-01 14:30:42,173 [INFO] ApiDbMcu:508 - Load IP Config File for FATFS
+2024-04-01 14:30:42,175 [INFO] ApiDbMcu:508 - Load IP Config File for LIBJPEG
+2024-04-01 14:30:42,182 [INFO] ApiDbMcu:508 - Load IP Config File for MBEDTLS
+2024-04-01 14:30:42,191 [INFO] ApiDbMcu:508 - Load IP Config File for USB_DEVICE
+2024-04-01 14:30:42,194 [INFO] ApiDbMcu:508 - Load IP Config File for USB_HOST
+2024-04-01 14:30:44,716 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 2869mS.
+2024-04-01 14:30:44,722 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-04-01 14:30:44,730 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
