@@ -61,7 +61,7 @@ const osThreadAttr_t Blink_attributes = {
   .priority = (osPriority_t) osPriorityLow,
 };
 /* USER CODE BEGIN PV */
-
+extern struct netif gnetif;
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
@@ -359,20 +359,22 @@ static void MX_GPIO_Init(void)
 void sendPing(void *argument)
 {
   /* init code for LWIP */
-  //MX_LWIP_Init();
+  MX_LWIP_Init();
   /* USER CODE BEGIN 5 */
-
+  char ip_str[16];
+  ipaddr_ntoa_r(&gnetif.ip_addr, ip_str, sizeof(ip_str));
   /* Infinite loop */
 
 
   for(;;)
   {
-	//printf("PING\n");
-	//MX_LWIP_Process();
-    //osDelay(1);
-	  //ethernetif_input(&gnetif);
-	  //sys_check_timeouts();
 
+	ipaddr_ntoa_r(&gnetif.ip_addr, ip_str, sizeof(ip_str));
+	printf("PING: ");
+	printf(ip_str);
+	printf("\n");
+
+    osDelay(1000);
 
   }
   /* USER CODE END 5 */
@@ -388,13 +390,13 @@ void sendPing(void *argument)
 void blinkLED(void *argument)
 {
   /* USER CODE BEGIN blinkLED */
+	HAL_GPIO_WritePin(LED1_GPIO_Port, LED1_Pin, GPIO_PIN_SET);
   /* Infinite loop */
   for(;;)
   {
 	HAL_GPIO_TogglePin(LED1_GPIO_Port, LED1_Pin);
     osDelay(1000);
-    HAL_GPIO_TogglePin(LED2_GPIO_Port, LED2_Pin);
-    osDelay(1000);
+
   }
   /* USER CODE END blinkLED */
 }
